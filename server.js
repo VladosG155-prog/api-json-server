@@ -11,6 +11,10 @@ server.use(jsonServer.bodyParser);
 
 // Обновляем маршрут для обработки пагинации
 server.use((req, res, next) => {
+  if (!req.query._page || !req.query._limit) {
+    next();
+    return;
+  }
   const page = parseInt(req.query._page) || 1;
   const limit = parseInt(req.query._limit) || 10;
   const start = (page - 1) * limit;
