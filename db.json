@@ -3,16 +3,149 @@
     {
       "id": 1,
       "title": "8 Figma design systems that you can download for free today.",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fG9mZmljZXxlbnwwfHwwfHx8MA%3D%3D",
       "createdBy": "John Doe",
       "createdDate": "May 23, 2022",
-      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "authorId": 1,
+      "tags": ["Experience", "Screen"],
+      "authorName": "Floyd Miles"
     },
     {
       "id": 2,
       "title": "8 Figma design systems that you can download for free today.",
       "createdBy": "John Doe",
+      "category": "Startup",
+      "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8b2ZmaWNlfGVufDB8fDB8fHww",
       "createdDate": "May 23, 2022",
-      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "authorId": 1,
+      "tags": ["Experience", "Screen"],
+      "authorName": "Floyd Miles"
+    },
+    {
+      "id": 3,
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8b2ZmaWNlfGVufDB8fDB8fHww",
+      "createdDate": "May 23, 2022",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "authorId": 3,
+      "tags": ["Experience", "Screen"],
+      "userName": "Dianne Russell"
+    },
+    {
+      "id": 4,
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1535957998253-26ae1ef29506?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8b2ZmaWNlfGVufDB8fDB8fHww",
+      "createdDate": "May 23, 2022",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "authorId": 3,
+      "tags": ["Marketing"],
+      "userName": "Dianne Russell"
+    },
+    {
+      "id": 5,
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1606857521015-7f9fcf423740?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG9mZmljZXxlbnwwfHwwfHx8MA%3D%3D",
+      "createdDate": "May 23, 2022",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "authorId": 4,
+      "tags": ["Experience", "Life"],
+      "userName": "Jenny Wilson"
+    },
+    {
+      "id": 6,
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "category": "Economy",
+      "image": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fG9mZmljZXxlbnwwfHwwfHx8MA%3D%3D",
+      "createdDate": "May 23, 2022",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "authorId": 4,
+      "tags": ["Screen"],
+      "userName": "Jenny Wilson"
+    },
+    {
+      "id": 7,
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1610374792793-f016b77ca51a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWVldGluZyUyMHJvb218ZW58MHx8MHx8fDA%3D",
+      "createdDate": "May 23, 2022",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "authorId": 4,
+      "tags": ["Experience", "Screen"],
+      "userName": "Jenny Wilson"
+    },
+    {
+      "id": 8,
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "category": "Economy",
+      "image": "https://images.unsplash.com/photo-1579488081757-b212dbd6ee72?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWVldGluZyUyMHJvb218ZW58MHx8MHx8fDA%3D",
+      "createdDate": "May 23, 2022",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "authorId": 2,
+      "tags": ["Experience", "Screen"],
+      "userName": "John Doe"
+    }
+  ],
+  "authors": [
+    {
+      "avatar": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXZhdGFyfGVufDB8fDB8fHww",
+      "id": 1,
+      "name": "Floyd Miles",
+      "job": "Content Writer",
+      "links": {
+        "facebook": "https://www.facebook.com/",
+        "instagram": "https://www.instagram.com/",
+        "twitter": "https://twitter.com/home?lang=ru",
+        "linkedin": "https://www.linkedin.com/feed/"
+      },
+      "posts": [1, 2]
+    },
+    {
+      "avatar": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YXZhdGFyfGVufDB8fDB8fHww",
+      "id": 2,
+      "name": "John Doe",
+      "job": "Content Writer",
+      "links": {
+        "facebook": "https://www.facebook.com/",
+        "instagram": "https://www.instagram.com/",
+        "twitter": "https://twitter.com/home?lang=ru",
+        "linkedin": "https://www.linkedin.com/feed/"
+      }
+    },
+    {
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YXZhdGFyfGVufDB8fDB8fHww",
+      "id": 3,
+      "name": "Dianne Russell",
+      "job": "Developer",
+      "links": {
+        "facebook": "https://www.facebook.com/",
+        "instagram": "https://www.instagram.com/",
+        "twitter": "https://twitter.com/home?lang=ru",
+        "linkedin": "https://www.linkedin.com/feed/"
+      }
+    },
+    {
+      "avatar": "https://images.unsplash.com/photo-1601412436009-d964bd02edbc?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGZhY2V8ZW58MHx8MHx8fDA%3D",
+      "id": 4,
+      "name": "Jenny Wilson",
+      "job": "Designer",
+      "links": {
+        "facebook": "https://www.facebook.com/",
+        "instagram": "https://www.instagram.com/",
+        "twitter": "https://twitter.com/home?lang=ru",
+        "linkedin": "https://www.linkedin.com/feed/"
+      }
     }
   ]
 }
