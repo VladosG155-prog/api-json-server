@@ -10,10 +10,7 @@ server.use(middlewares);
 server.use(jsonServer.bodyParser);
 
 // Обновляем маршрут для обработки пагинации
-server.use((req, res, next) => {
-  res.setHeader("X-Total-Count", totalResults);
-  next();
-});
+
 server.use(router);
 
 // Listen to port
